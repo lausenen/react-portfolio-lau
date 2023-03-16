@@ -29,19 +29,20 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    color: var(--color-primary-lighter);
 }
 
 .header__socials::after {
     content: '';
     width: 1px;
     height: 2rem;
-    background: var(--color-primary);
+    background: var(--color-primary-lighter);
 }
 
 
 /* ============== ME ============= */
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
+    background: linear-gradient(var(--color-primary-variant), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;

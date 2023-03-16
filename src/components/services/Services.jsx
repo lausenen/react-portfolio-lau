@@ -15,15 +15,15 @@ const Services = () => {
 
         <ul className='service_list'>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I understand to always put the user first.</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I make products that are fun and entuitive to use.</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I understand that the less clicks the better</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>The UX design is made with multiple design patterns in mind, eg. Gestalt principles</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>Can use multiple UX design tools such as Figma .</p></li>
         </ul>
       </article>
       {/* END OF UI/UX */}
@@ -35,17 +35,17 @@ const Services = () => {
 
         <ul className='service_list'>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>Good knowledge about the React & Node.js frameworks.</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p></p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p> I know how to use several javascript frameworks such as Swiperjs.</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I have an eye for detail and will make sure your website looks the best it can </p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I am able to connect your front end program to a backend database</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I am experienced with PHP, mariaDB and MongoDB</p></li>
         </ul>
       </article>
       {/* END OF WEBDEVELOPMENT */}
@@ -57,15 +57,14 @@ const Services = () => {
 
         <ul className='service_list'>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I am experienced with image manipulation programs such as photoshop.</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I can make simple logos and figures</p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I am able to edit video content </p></li>
           <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
-          <li><BiCheck className='service_list-icon'/>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></li>
+          <p>I can format files and data so they are ready for use</p></li>
+          
         </ul>
       </article>
       {/* END OF CONTENT CREATION */}
