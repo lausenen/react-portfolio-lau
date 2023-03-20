@@ -39,7 +39,7 @@ const About = () => {
           </article>
         </div>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias et magnam ipsa modi blanditiis libero at eum ipsam neque consequatur quibusdam omnis minima ipsum sit quam nulla, quae sed.</p>
+        <p>I am an software student at DTU on my sixth semester. I am specialized in android development and webdevelopment. As a person I am very ambitous and always looking for a challenge!</p>
 
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>
       </div>

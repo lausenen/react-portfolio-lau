@@ -14,7 +14,7 @@ const Services = () => {
         </div>
 
         <ul className='service_list'>
-          <li><BiCheck className='service_list-icon'/>
+          <li>
           <p>I understand to always put the user first.</p></li>
           <li><BiCheck className='service_list-icon'/>
           <p>I make products that are fun and entuitive to use.</p></li>
@@ -34,10 +34,8 @@ const Services = () => {
         </div>
 
         <ul className='service_list'>
-          <li><BiCheck className='service_list-icon'/>
+          <li>
           <p>Good knowledge about the React & Node.js frameworks.</p></li>
-          <li><BiCheck className='service_list-icon'/>
-          <p></p></li>
           <li><BiCheck className='service_list-icon'/>
           <p> I know how to use several javascript frameworks such as Swiperjs.</p></li>
           <li><BiCheck className='service_list-icon'/>
@@ -56,7 +54,7 @@ const Services = () => {
         </div>
 
         <ul className='service_list'>
-          <li><BiCheck className='service_list-icon'/>
+          <li>
           <p>I am experienced with image manipulation programs such as photoshop.</p></li>
           <li><BiCheck className='service_list-icon'/>
           <p>I can make simple logos and figures</p></li>
